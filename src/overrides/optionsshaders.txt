@@ -1,0 +1,19 @@
+#Sat Aug 24 18:41:24 BRT 2024
+shaderPack=(internal)
+antialiasingLevel=0
+normalMapEnabled=false
+specularMapEnabled=false
+renderResMul=0.70710677
+shadowResMul=1.0
+handDepthMul=0.25
+cloudShadow=false
+oldHandLight=default
+oldLighting=default
+tweakBlockDamage=false
+shadowClipFrustrum=true
+TexMinFilB=0
+TexMinFilN=0
+TexMinFilS=0
+TexMagFilB=0
+TexMagFilN=0
+TexMagFilS=0
